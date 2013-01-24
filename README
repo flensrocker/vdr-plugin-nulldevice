@@ -1,10 +1,16 @@
 This is a "plugin" for the Video Disk Recorder (VDR).
 
-Written by:                  Petri Hintukainen <phintuka@users.sourceforge.net>
+Original Written by:                  Petri Hintukainen <phintuka@users.sourceforge.net>
 
-Project's homepage:          http://phivdr.dyndns.org/vdr/
+Original Project's homepage:          http://phivdr.dyndns.org/vdr/
 
-Latest version available at: http://phivdr.dyndns.org/vdr/
+Original Latest version available at: http://phivdr.dyndns.org/vdr/
+
+Fork Written by:                  Lars Hanisch <dvb@flensrocker.de>
+
+Fork Project's homepage:          https://github.com/flensrocker/vdr-plugin-nulldevice
+
+Fork Latest version available at: https://github.com/flensrocker/vdr-plugin-nulldevice
 
 See the file COPYING for license information.
 
@@ -15,7 +21,9 @@ Description:
   This plugin can be used to run vdr as recording server
   without any output devices.
 
+  This is an experimental fork of the well know dummydevice
+  for testing purpose only.
 
 Requirements:
 
-  vdr-1.2.0 or later (tested with 1.4.0).
+  vdr-1.7.36 or later

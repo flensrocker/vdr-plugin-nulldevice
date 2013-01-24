@@ -1,4 +1,4 @@
-VDR Plugin 'dummydevice' Revision History
+VDR Plugin 'nulldevice' Revision History
 -----------------------------------------
 
 2004-10-08: Version 0.0.1
@@ -21,3 +21,6 @@ VDR Plugin 'dummydevice' Revision History
 
 - Added dummy OSD (Thanks to L. Hanisch)
 
+2013-01-23: Version 2.0.0:
+
+- fork dummydevice as nulldevice
